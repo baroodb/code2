@@ -6,3 +6,5 @@ import numpy as np
 
 def getRandomNumber():
     return np.random.randint(0, 10)
+
+# This gonna be whatever we gonna add after checking out previous commit
