@@ -6,3 +6,7 @@ import numpy as np
 
 def getRandomNumber():
     return np.random.randint(0, 10)
+
+
+def run_test_cases():
+    return
